@@ -3,6 +3,6 @@
     "version": "1.0.0",
     "dependencies": {
         "backbone":"*",
-        "fgnass/spin.js":"*"
+        "fgnass/spin.js":"1.2.6"
     }
 }
